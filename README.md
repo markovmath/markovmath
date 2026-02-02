@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3791D4&center=true&vCenter=true&width=500&lines=Apaixonado+por+Redes+e+Protocolos;Engenharia+Reversa+Automotiva;Explorando+Baixo+Nível+e+C" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3791D4&center=true&vCenter=true&width=500&lines=Apaixonado+por+Redes;Engenharia+Reversa;Low+Level+and+C" />
 </p>
-rei.gif
+
+
 <p align="center">
   <img src="0bff732f26048139b2890ad2239f33ab.gif" width="600">
 </p>
