@@ -9,8 +9,9 @@
 
 ## Tools & Learning
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Garuda](https://img.shields.io/badge/Garuda_Linux-3791D4?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ## About Me
