@@ -17,4 +17,4 @@
 
 
 ## About Me
-I like math, science, philosophy & theorical computing. I kinda like computer networks, development and infosec.
+I like math, classical physics, philosophy & theorical computing. I kinda like computer networks, development and infosec. I'm currently learning Russian in my free time, and I speak some Japanese.
