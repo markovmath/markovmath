@@ -14,7 +14,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 ## About Me
-I like math, classical physics, philosophy & theorical computing. I kinda like computer networks, development and infosec. I'm currently learning Russian in my free time, and I speak some Japanese.
+I'm IT technician and a web and mobile developer. I like math, classical physics, philosophy & theorical computing. I kinda like computer networks and infosec. I'm currently learning Russian in my free time, and I speak some Japanese.
