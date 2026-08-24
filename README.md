@@ -19,4 +19,4 @@
 
 
 ## About Me
-I'm IT technician and a web and mobile developer. I like math, classical physics, philosophy & theorical computing. I kinda like computer networks and infosec. I'm currently learning Russian in my free time, and I speak some Japanese.
+I'm IT technician and a web & mobile developer. I like math, classical physics, philosophy & theorical computing. I kinda like computer networks and infosec. I'm currently learning Russian in my free time, and I speak some Japanese.
